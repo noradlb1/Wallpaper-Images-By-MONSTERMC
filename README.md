@@ -31,7 +31,9 @@ The second version I will add themes for Windows from the same tool for all vers
 
 Now I will download the first version, and when I finish the second version, a message box will appear when I open the tool to download the second version
 
-I did not finish the tool wait for us
+The tool contains 9933 lines of code, some of which are repeated
+
+![1](https://user-images.githubusercontent.com/74623428/151113826-497b0d33-91d1-423e-beca-fa3275a2934d.PNG)
 
 Animation about the tool
 
@@ -61,13 +63,16 @@ Animation about the tool
 
 الان سأقوم بتنزيل الأصدار الأول وعند ما انتهي من الاصدار الثاني سيتم اضهار مسج بوكس عند فتح الاداه لتحميل الاصدار الثاني
 
-لم انتهي من الاداه انتضرونا
+الأداه تحتوي على 9933 سطر برمجي بعضها متكرر
 
 ** **
 
 صوره متحركه عن الاداه
 
 ** **
+
+![Wallpaper monstermc](https://user-images.githubusercontent.com/74623428/151114735-52519672-8610-4b93-a8b8-caa441cb0fae.gif)
+
 
 ![Walpaper by monstermc](https://user-images.githubusercontent.com/74623428/150951961-6dbaf869-ba81-4684-b349-6cd710ce4d79.gif)
 
